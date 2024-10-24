@@ -1,4 +1,4 @@
-#General
+**General**
 What NoSQL means
 What is difference between SQL and NoSQL
 What is ACID
@@ -8,7 +8,8 @@ What are benefits of a NoSQL database
 How to query information from a NoSQL database
 How to insert/update/delete information from a NoSQL database
 How to use MongoDB
-#Requirements
+
+**Requirements**
 MongoDB Command File
 All your files will be interpreted/compiled on Ubuntu 18.04 LTS using MongoDB (version 4.2)
 All your files should end with a new line
@@ -25,7 +26,7 @@ The length of your files will be tested using wc
 All your modules should have a documentation (python3 -c 'print(__import__("my_module").__doc__)')
 All your functions should have a documentation (python3 -c 'print(__import__("my_module").my_function.__doc__)'
 Your code should not be executed when imported (by using if __name__ == "__main__":)
-#More Info
+**More Info**
 Install MongoDB 4.2 in Ubuntu 18.04
 Official installation guide
 
